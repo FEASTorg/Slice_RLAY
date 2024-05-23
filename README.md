@@ -3,7 +3,7 @@
   <a href="https://github.com/uwo-fast">
     <img src="https://github.com/uwo-fast/.github/blob/main/branding/FAST%20Logo%20Orange%20on%20White%20Transparent.png" height="100">
   </a>
-  <h2><a href="https://github.com/uwo-fast/Slice_TEMP"> BREAD Repository Template </a></h2>
+  <h2><a href="https://github.com/uwo-fast/Slice_RLAY"> Slice RLAY </a></h2>
   <!-- Labels: -->
   <!-- First row: -->
   <a href="https://github.com/uwo-fast/.github/blob/main/collaborating.md">
@@ -27,23 +27,23 @@
   </a>
   <!-- Second row: -->
   <br>
-  <a href="https://github.com/uwo-fast/Slice_TEMP/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/uwo-fast/Slice_TEMP" alt="License">
+  <a href="https://github.com/uwo-fast/Slice_RLAY/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/uwo-fast/Slice_RLAY" alt="License">
   </a>
-  <a href="https://github.com/uwo-fast/Slice_TEMP">
-    <img src="https://img.shields.io/github/repo-size/uwo-fast/Slice_TEMP" alt="Repo Size">
+  <a href="https://github.com/uwo-fast/Slice_RLAY">
+    <img src="https://img.shields.io/github/repo-size/uwo-fast/Slice_RLAY" alt="Repo Size">
   </a>
-  <a href="https://github.com/uwo-fast/Slice_TEMP/issues">
-    <img src="https://img.shields.io/github/issues/uwo-fast/Slice_TEMP" alt="Issues">
+  <a href="https://github.com/uwo-fast/Slice_RLAY/issues">
+    <img src="https://img.shields.io/github/issues/uwo-fast/Slice_RLAY" alt="Issues">
   </a>
-  <a href="https://github.com/uwo-fast/Slice_TEMP/network/members">
-    <img src="https://img.shields.io/github/forks/uwo-fast/Slice_TEMP?style=social" alt="Forks">
+  <a href="https://github.com/uwo-fast/Slice_RLAY/network/members">
+    <img src="https://img.shields.io/github/forks/uwo-fast/Slice_RLAY?style=social" alt="Forks">
   </a>
-  <a href="https://github.com/uwo-fast/Slice_TEMP/stargazers">
-    <img src="https://img.shields.io/github/stars/uwo-fast/Slice_TEMP?style=social" alt="Stars">
+  <a href="https://github.com/uwo-fast/Slice_RLAY/stargazers">
+    <img src="https://img.shields.io/github/stars/uwo-fast/Slice_RLAY?style=social" alt="Stars">
   </a>
   <!-- Short description: -->
-  <h3>This is a template repository for creating BREAD modules.</h3>
+  <h3>4-Channel Relay Slice for BREAD.</h3>
 </div>
 
 
