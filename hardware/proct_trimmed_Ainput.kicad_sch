@@ -562,20 +562,20 @@
 		)
 		(instances
 			(project "BREAD_Slice"
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
-					(reference "RV1")
-					(unit 1)
-				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
-					(reference "RV2")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
+					(reference "RV4")
 					(unit 1)
 				)
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/b8c88354-25c1-41b8-b883-b077a970c54f"
 					(reference "RV3")
 					(unit 1)
 				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
-					(reference "RV4")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
+					(reference "RV2")
+					(unit 1)
+				)
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
+					(reference "RV1")
 					(unit 1)
 				)
 			)
@@ -590,7 +590,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8309bca3-b8d1-4b06-899f-328f94a04702")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR016"
 			(at 93.98 76.2 0)
 			(effects
 				(font
@@ -639,20 +639,20 @@
 		)
 		(instances
 			(project "BREAD_Slice"
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
-					(reference "#PWR014")
-					(unit 1)
-				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
-					(reference "#PWR016")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
+					(reference "#PWR022")
 					(unit 1)
 				)
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/b8c88354-25c1-41b8-b883-b077a970c54f"
+					(reference "#PWR020")
+					(unit 1)
+				)
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
 					(reference "#PWR018")
 					(unit 1)
 				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
-					(reference "#PWR020")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -667,7 +667,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c784844-7b93-4ef1-ba7c-83b1ec4cb09c")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR017"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -716,20 +716,20 @@
 		)
 		(instances
 			(project "BREAD_Slice"
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
-					(reference "#PWR015")
-					(unit 1)
-				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
-					(reference "#PWR017")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
+					(reference "#PWR023")
 					(unit 1)
 				)
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/b8c88354-25c1-41b8-b883-b077a970c54f"
+					(reference "#PWR021")
+					(unit 1)
+				)
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
 					(reference "#PWR019")
 					(unit 1)
 				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
-					(reference "#PWR021")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -797,20 +797,20 @@
 		)
 		(instances
 			(project "BREAD_Slice"
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
-					(reference "D2")
-					(unit 1)
-				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
-					(reference "D3")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
+					(reference "D5")
 					(unit 1)
 				)
 				(path "/66043bca-a260-4915-9fce-8a51d324c687/b8c88354-25c1-41b8-b883-b077a970c54f"
 					(reference "D4")
 					(unit 1)
 				)
-				(path "/66043bca-a260-4915-9fce-8a51d324c687/b5da4b94-97ce-4ae4-aac7-1d4139497e7a"
-					(reference "D5")
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/c0d18fba-c059-4c8a-9412-a4a9c75bf00d"
+					(reference "D3")
+					(unit 1)
+				)
+				(path "/66043bca-a260-4915-9fce-8a51d324c687/d9371660-1998-461a-acc9-6e12c1d0530e"
+					(reference "D2")
 					(unit 1)
 				)
 			)
